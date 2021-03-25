@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Personal Information
 
-You can use the [editor on GitHub](https://github.com/Kvalisa/MYY_PROFILE/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m Alisa. I was born in Russia and immigrated to Australia very young. My mum named me after having a dream related to ‘Alice in Wonderland’ the day before I was born. (The pronunciation of my name translates to Alice in russian). I’m also able to speak and understand russian. My family once again moved overseas for a few years where we traveled all around Europe, finally returning back to Australia for good. We moved houses often and funnily enough, two times on the same street. I’ve just recently graduated from high school and am currently completing a Bachelor of IT. An interesting fact about me is that I took apart an old computer just to use some parts for a small sculpture because I like art very much. 
 
 ### Markdown
 
